@@ -1,7 +1,7 @@
 <?php
 include("connect.php"); 
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST") { 
     $idAhli = $_POST["idAhli"];
     $Nama = $_POST["Nama"];
     $PasswordAhli = $_POST["PasswordAhli"];
