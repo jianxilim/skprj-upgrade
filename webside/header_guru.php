@@ -25,3 +25,4 @@ function _navActive($map, $cur, $key) {
   </div>
   <a href="login_guru.php" class="icon-btn logout-btn" title="Log keluar"><i class="fas fa-sign-out-alt"></i><span class="nav-label">Keluar</span></a>
 </nav>
+ 
